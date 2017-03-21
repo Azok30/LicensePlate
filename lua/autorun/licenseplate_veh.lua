@@ -210,9 +210,7 @@ LicensePlate.ModelPlates={
         },
     },
 	
-	--[[----------
-		Volkswagen
-	----------]]--
+	-- VW GOLF GTI 14
 	["models/tdmcars/vw_golfgti_14.mdl"]={
 		{	
 			pos=Vector(0,103.2,22),
@@ -225,18 +223,10 @@ LicensePlate.ModelPlates={
 			scale=0.035,
 		},
 	},
-	["models/tdmcars/vw_beetleconv.mdl"]={
-		{	
-			pos=Vector(0,103.68,21.8),
-			ang=Angle(0,180,83),
-			scale=0.04,
-		},
-		{	
-			pos=Vector(0,-96.1,23),
-			ang=Angle(0,0,70),
-			scale=0.02,
-		},
-	},
+
+	
+	
+	-- VW SCIROCCO
 	["models/tdmcars/vw_sciroccor.mdl"]={
 		{	
 			pos=Vector(0,98.55,24),
@@ -249,82 +239,23 @@ LicensePlate.ModelPlates={
 			scale=0.035,
 		},
 	},
-	
-	--[[----------
-		Ford
-	----------]]--
-	["models/tdmcars/for_f350.mdl"]={
-		{	
-			pos=Vector(0,143.85,36.5),
-			ang=Angle(0,180,90),
-			scale=0.04,
-		},
-		{	
-			pos=Vector(28,-163.8,37),
-			ang=Angle(0,1,90),
-			scale=0.03,
-		},
-	},
+
+	-- FORD FOCUS SVT
 	["models/tdmcars/for_focussvt.mdl"]={
 		{	
 			pos=Vector(0,103.2,24),
 			ang=Angle(0,180,90),
-			scale=0.035,
+			scale=0.030,
 		},
 		{	
 			pos=Vector(0,-98.4,42),
 			ang=Angle(0,0,80),
-			scale=0.035,
+			scale=0.030,
 		},
 	},
-	["models/tdmcars/for_mustanggt.mdl"]={
-		{	
-			pos=Vector(0,112.95,18.2),
-			ang=Angle(0,180,105),
-			scale=0.035,
-		},
-		{	
-			pos=Vector(0,-114,27),
-			ang=Angle(0,0,90),
-			scale=0.02,
-		},
-	},
-	["models/tdmcars/for_raptor.mdl"]={
-		{	
-			pos=Vector(0,137.15,31),
-			ang=Angle(0,180,90),
-			scale=0.035,
-		},
-		{	
-			pos=Vector(28,-131.6,34),
-			ang=Angle(0,1,90),
-			scale=0.035,
-		},
-	},
-	["models/tdmcars/ford_coupe_40.mdl"]={
-        {  
-            pos=Vector(0,112.1,19),
-            ang=Angle(0,180,90),
-            scale=0.033,
-        },
-        {  
-            pos=Vector(0,-113.68,21),
-            ang=Angle(0,0,90),
-            scale=0.033,
-        },
-    },
-	["models/tdmcars/for_f100.mdl"]={
-        {  
-            pos=Vector(0,117.6,18.5),
-            ang=Angle(0,180,90),
-            scale=0.042,
-        },
-        {  
-            pos=Vector(0,-118.25,17.5),
-            ang=Angle(0,0,90),
-            scale=0.045,
-        },
-    },
+	
+	
+	-- FORD FOCUS RS
 	["models/tdmcars/focusrs.mdl"]={
         {  
             pos=Vector(0,100.73,23.08),
@@ -337,42 +268,24 @@ LicensePlate.ModelPlates={
             scale=0.033,
         },
     },
+	
+	
+	-- FORD FOCUS RS '16
 	["models/tdmcars/for_focus_rs16.mdl"]={
         {  
             pos=Vector(0,106.1,28),
             ang=Angle(0,180,90),
-            scale=0.033,
+            scale=0.030,
         },
         {  
             pos=Vector(0,-100.58,46),
             ang=Angle(0,0,77),
-            scale=0.039,
+            scale=0.030,
         },
     },
-	["models/tdmcars/gt05.mdl"]={
-        {  
-            pos=Vector(-13,109.5,25.91),
-            ang=Angle(-1.,185,30),
-            scale=0.022,
-        },
-        {  
-            pos=Vector(21,-111.91,23.5),
-            ang=Angle(0,1.5,110),
-            scale=0.028,
-        },
-    },
-    ["models/tdmcars/for_she_gt500.mdl"]={
-        {  
-            pos=Vector(0,111,20),
-            ang=Angle(0,180,90),
-            scale=0.035,
-        },
-        {  
-            pos=Vector(0,-112.61,34),
-            ang=Angle(0,0,90),
-            scale=0.04,
-        },
-    },
+	
+	
+	-- FORD TRANSIT
     ["models/tdmcars/ford_transit.mdl"]={
         {  
             pos=Vector(0,121.64,27),
@@ -385,217 +298,371 @@ LicensePlate.ModelPlates={
             scale=0.034,
         },
     },
-	["models/lonewolfie/ford_falcon_xb.mdl"]={
-        {  
-            pos=Vector(0,115,20.4),
-            ang=Angle(0,180,90),
-            scale=0.025,
-        },
-        {  
-            pos=Vector(0,-118.2,24.8),
-            ang=Angle(0,0,75),
-            scale=0.022,
-        },
-    },
 
-	--[[----------
-		Dodge
-	----------]]--
-	["models/lonewolfie/dod_charger_70_fnf.mdl"]={
-        {  
-            pos=Vector(0,122.6,21.2),
-            ang=Angle(0,180,90),
-            scale=0.026,
-        },
-        {  
-            pos=Vector(0,-129,29),
-            ang=Angle(0,0,106),
-            scale=0.025,
-        },
-    },
-	["models/lonewolfie/dodge_ram_1500_outdoorsman.mdl"]={
-        {  
-            pos=Vector(0,149.19,31),
-            ang=Angle(0,180,90),
-            scale=0.05,
-        },
-        {  
-            pos=Vector(-0.40,-120,33),
-            ang=Angle(0,0,90),
-            scale=0.029,
-        },
-    },
 
-	--[[----------
-		Lamborghini
-	----------]]--
-	 ["models/lonewolfie/lam_reventon.mdl"]={
-        {  
-            pos=Vector(-13,117,22.6),
-            ang=Angle(-7.,200,30),
-            scale=0.025,
-        },
-        {  
-            pos=Vector(0,-102.8,31),
-            ang=Angle(0,0,68),
-            scale=0.035,
-        },
-    },
-	["models/lonewolfie/lam_huracan.mdl"]={
-        {  
-            pos=Vector(0,114.6,16),
-            ang=Angle(0,180,90),
-            scale=0.03,
-        },
-        {  
-            pos=Vector(0,-98.7,20),
-            ang=Angle(0,0,85),
-            scale=0.028,
-        },
-    },
-
-	--[[----------
-		Subaru
-	----------]]--
-	["models/lonewolfie/subaru_impreza_2004_impreza_2004.mdl"]={
-        {  
-            pos=Vector(0,107.7,22.5),
+	
+	-- ======================================================
+	-- =													=
+	-- =				RAJOUTS PAR AZOK30					=
+	-- =													=
+	-- ======================================================
+	
+	-- PEUGEOT 308
+	["models/crsk_autos/peugeot/308gti_2011.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0.3,104.4,10.5),
             ang=Angle(0,180,90),
             scale=0.032,
         },
-        {  
-            pos=Vector(0,-104.8,22),
-            ang=Angle(0,0,90),
-            scale=0.034,
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0,-108.5,16),
+            ang=Angle(0,0,95),
+            scale=0.030,
         },
     },
-
-	--[[----------
-		Honda
-	----------]]--
-	["models/lonewolfie/honda_nsxr.mdl"]={
-        {  
-            pos=Vector(0,111.4,21),
+	
+	
+	-- PEUGEOT 508
+	["models/crsk_autos/peugeot/508_2011.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,110.3,14),
             ang=Angle(0,180,90),
-            scale=0.03,
+            scale=0.032,
         },
-        {  
-            pos=Vector(24,-113.1,26),
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0,-112.9,17.5),
+            ang=Angle(0,0,100),
+            scale=0.030,
+        },
+    },
+	
+	
+	-- PEUGEOT RCZ
+	["models/r4_vehicles/peugeot/rcz.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(1.8,99.55,9.6),
+            ang=Angle(0,180,91),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(1.28,-85.15,22.7),
+            ang=Angle(0,0,64),
+            scale=0.030,
+        },
+    },
+	
+	
+	-- MERCEDES A45
+	["models/r4_vehicles/mercedes/mercedes_a45.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(1.5,106.5,22.5),
+            ang=Angle(0,180,90),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(1.50,-99.8,37),
+            ang=Angle(0,0,75),
+            scale=0.030,
+        },
+    },
+	
+	
+	-- JEEP WRANGLER
+	["models/tdmcars/wrangler.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0.3,91.5,28),
+            ang=Angle(0,180,100),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0.3,-96.65,50),
             ang=Angle(0,0,90),
             scale=0.030,
         },
     },
-
-	--[[----------
-		Porsche
-	----------]]--
-	["models/lonewolfie/porsche_911_rsr_74.mdl"]={
-        {  
-            pos=Vector(0,103.65,20),
+	
+	
+	-- VOLVO XC70
+	["models/tdmcars/vol_xc70.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,118.5,17.6),
             ang=Angle(0,180,90),
-            scale=0.040,
+            scale=0.030,
         },
-        {  
-            pos=Vector(0,-109.5,19),
-            ang=Angle(0,0,90),
-            scale=0.040,
-        },
-    },
-
-	--[[----------
-		Bugatti
-	----------]]--
-	 ["models/lonewolfie/bugatti_veyron_grandsport.mdl"]={
-        {  
-            pos=Vector(-31,102.47,22),
-            ang=Angle(0,205,73),
-            scale=0.03,
-        },
-        {  
-            pos=Vector(0,-109,28),
-            ang=Angle(0,0,90),
-            scale=0.023,
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0.3,-111,34.2),
+            ang=Angle(0,0,85),
+            scale=0.030,
         },
     },
 	
-	--[[----------
-		BMW
-	----------]]--
-	 ["models/tdmcars/bmw_1m.mdl"]={
-    {  
-        pos=Vector(0,103.2,20),
-        ang=Angle(0,-180,95),
-        scale=0.03,
+	
+	-- POLARIS QUAD 6x6
+	["models/lonewolfie/polaris_6x6.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,57,25),
+            ang=Angle(0,180,95),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0.3,-74.5,31),
+            ang=Angle(0,0,78),
+            scale=0.030,
+        },
     },
-    {  
-        pos=Vector(0,-99,38),
-        ang=Angle(0,0,90),
-        scale=0.03,
+	
+	
+	-- POLARIS QUAD 6x6
+	["models/lonewolfie/polaris_4x4.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,57,25),
+            ang=Angle(0,180,95),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0.3,-41.7,27.5),
+            ang=Angle(0,0,78),
+            scale=0.030,
+        },
+    },		
+	
+	
+	-- C63 BLACK AMG
+	["models/lonewolfie/mer_c63_amg.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,113.5,29),
+            ang=Angle(0,180,90),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0.3,-110.2,47.5),
+            ang=Angle(0,0,73),
+            scale=0.030,
+        },
     },
-},
-
-	 ["models/tdmcars/bmw507.mdl"]={
-    {  
-        pos=Vector(0,110.17,18),
-        ang=Angle(0,-180,95),
-        scale=0.03,
+	
+	
+	-- BMW X5
+	["models/marcuscars/bmwx5.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,118.8,14.2),
+            ang=Angle(0,180,90),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0.3,-114.5,38),
+            ang=Angle(0,0,78),
+            scale=0.030,
+        },
     },
-    {  
-        pos=Vector(0,-104.9,29),
-        ang=Angle(0,0,90),
-        scale=0.03,
+	
+	
+	-- AUDI A6
+	["models/metrohd/audi_a6.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,111.5,21),
+            ang=Angle(0,180,90),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0.3,-122.8,36),
+            ang=Angle(0,0,78),
+            scale=0.030,
+        },
     },
-},
-
-	 ["models/tdmcars/bmwm3e92.mdl"]={
-    {  
-        pos=Vector(0,110.22, 14.8),
-        ang=Angle(0,-180,95),
-        scale=0.03,
+	
+	
+	-- MERCEDES AMG CLA45
+	["models/metrohd/merc_cla45.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,112.5,21),
+            ang=Angle(0,180,90),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0.3,-110.5,40),
+            ang=Angle(0,0,74),
+            scale=0.030,
+        },
     },
-    {  
-        pos=Vector(0,-105.8,32.5),
-        ang=Angle(0,0,90),
-        scale=0.03,
+	
+	
+	-- MERCEDES VITO
+	["models/metrohd/merc_vito.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,117.5,21),
+            ang=Angle(0,180,90),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0,-114.8,33.5),
+            ang=Angle(0,0,77),
+            scale=0.030,
+        },
     },
-},
-
- 	["models/tdmcars/bmwm5e34.mdl"]={
-    {  
-        pos=Vector(0,115.5, 22.5),
-        ang=Angle(0,-180,95),
-        scale=0.03,
+	
+	
+	-- PORSCHE PANAMERA
+	["models/metrohd/porsche_panamera.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,124.5,26),
+            ang=Angle(0,180,90),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0,-124.5,32),
+            ang=Angle(0,0,75),
+            scale=0.030,
+        },
     },
-    {  
-        pos=Vector(0,-110.8,39.25),
-        ang=Angle(0,0,90),
-        scale=0.03,
+	
+	
+	-- VW PASSAT
+	["models/metrohd/vw_passat_variant.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,117.8,24.5),
+            ang=Angle(0,180,90),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0,-112.9,33.5),
+            ang=Angle(0,0,79),
+            scale=0.030,
+        },
     },
-},
-
-	 ["models/tdmcars/bmwm5e60.mdl"]={
-    {  
-        pos=Vector(0,115.585, 26),
-        ang=Angle(0,-180,95),
-        scale=0.03,
+	
+	
+	-- DS3
+	["models/skyautomotive/citroen_ds3.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,88,24.5),
+            ang=Angle(0,180,90),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0,-86.3,27),
+            ang=Angle(0,0,70),
+            scale=0.030,
+        },
     },
-    {  
-        pos=Vector(0,-113.945,28),
-        ang=Angle(0,0,90),
-        scale=0.03,
+	
+	
+	-- FPT
+	["models/tdmcars/trucks/scania_firetruck.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,150.5,26),
+            ang=Angle(0,180,90),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0,-163.9,100),
+            ang=Angle(0,0,90),
+            scale=0.030,
+        },
     },
-},
-
- 	["models/tdmcars/bmw_m6_13.mdl"]={
-    {  
-        pos=Vector(0,118, 30),
-        ang=Angle(0,-180,95),
-        scale=0.03,
+	
+	
+	-- RS4
+	["models/tdmcars/aud_rs4avant.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,108.8,21),
+            ang=Angle(0,180,85),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0,-110.6,35),
+            ang=Angle(0,0,80),
+            scale=0.030,
+        },
     },
-    {  
-        pos=Vector(0,-117.5,33),
-        ang=Angle(0,0,90),
-        scale=0.03,
+	
+	
+	-- VW VR6 MK3
+	["models/tdmcars/golfvr6_mk3.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(-0.4,100.5,21),
+            ang=Angle(0,180,90),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0,-96,24),
+            ang=Angle(0,0,90),
+            scale=0.030,
+        },
     },
-},
+	
+	
+	-- BMW M3 GTR
+	["models/tdmcars/bmw_m3_gtr.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(-0.4,109.5,23),
+            ang=Angle(0,180,90),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0,-102.5,39.5),
+            ang=Angle(0,0,78),
+            scale=0.030,
+        },
+    },
+	
+	
+	-- BMW M3 E60
+	["models/tdmcars/bmwm5e60.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,115.8,25.8),
+            ang=Angle(0,180,90),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0,-109.8,40.5),
+            ang=Angle(0,0,78),
+            scale=0.030,
+        },
+    },
+	
+	
+	-- FERRARI 458 SPIDER
+	["models/tdmcars/fer_458spid.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,107.99,21),
+            ang=Angle(0,180,90),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0,-105.9,29),
+            ang=Angle(0,0,71),
+            scale=0.030,
+        },
+    },
+	
+	
+	-- FERRARI F12
+	["models/tdmcars/fer_f12.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,109.9,12),
+            ang=Angle(0,180,90),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0,-108.7,34),
+            ang=Angle(0,0,77),
+            scale=0.030,
+        },
+    },
+	
+	
+	-- LYKAN
+	["models/lonewolfie/lykan_hypersport.mdl"]={
+        {	-- PLAQUE AVANT
+            pos=Vector(0,110.8,12),
+            ang=Angle(0,180,100),
+            scale=0.030,
+        },
+        {	-- PLAQUE ARRIERE
+            pos=Vector(0,-103.2,25.5),
+            ang=Angle(0,0,73),
+            scale=0.030,
+        },
+    },
 }
